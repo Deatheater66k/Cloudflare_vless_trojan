@@ -2,7 +2,7 @@
 import { connect } from "cloudflare:sockets";
 
 let Pswd = "434467";
-const proxyIPs = ["bestproxy.onecf.eu.org"]; //workers.cloudflare.cyou bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org
+const proxyIPs = ["bing.kevinyang.us.kg"]; //workers.cloudflare.cyou bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org
 let hostnames = [''];
 
 let sha224Password;
